@@ -35,7 +35,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-FLOAT64_MAX_SAFE_NTH_FIBONACCI = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-fibonacci@umd/browser.js' )
+FLOAT64_MAX_SAFE_NTH_FIBONACCI = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-fibonacci@v0.0.8-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -47,7 +47,7 @@ var FLOAT64_MAX_SAFE_NTH_FIBONACCI = require( 'path/to/vendor/umd/constants-floa
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-fibonacci@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-fibonacci@v0.0.8-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -87,7 +87,7 @@ var bool = ( FLOAT64_MAX_SAFE_NTH_FIBONACCI === 78 );
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-fibonacci@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-fibonacci@v0.0.8-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
