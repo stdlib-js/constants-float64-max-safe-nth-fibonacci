@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-fibonacci"
-click B href "https://github.com/stdlib-js/constants-float64-max-safe-nth-fibonacci/tree/main"
-click C href "https://github.com/stdlib-js/constants-float64-max-safe-nth-fibonacci/tree/production"
-click D href "https://github.com/stdlib-js/constants-float64-max-safe-nth-fibonacci/tree/esm"
-click E href "https://github.com/stdlib-js/constants-float64-max-safe-nth-fibonacci/tree/deno"
-click F href "https://github.com/stdlib-js/constants-float64-max-safe-nth-fibonacci/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-fibonacci"
+%% click B href "https://github.com/stdlib-js/constants-float64-max-safe-nth-fibonacci/tree/main"
+%% click C href "https://github.com/stdlib-js/constants-float64-max-safe-nth-fibonacci/tree/production"
+%% click D href "https://github.com/stdlib-js/constants-float64-max-safe-nth-fibonacci/tree/esm"
+%% click E href "https://github.com/stdlib-js/constants-float64-max-safe-nth-fibonacci/tree/deno"
+%% click F href "https://github.com/stdlib-js/constants-float64-max-safe-nth-fibonacci/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-fibonacci

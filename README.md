@@ -173,7 +173,7 @@ Macro for the maximum [safe][safe-integers] nth [Fibonacci number][fibonacci-num
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float64/max-safe-fibonacci`][@stdlib/constants/float64/max-safe-fibonacci]</span><span class="delimiter">: </span><span class="description">maximum safe Fibonacci number when stored in double-precision floating-point format.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/max-safe-fibonacci`][@stdlib/constants/float64/max-safe-fibonacci]</span><span class="delimiter">: </span><span class="description">maximum safe Fibonacci number when stored in double-precision floating-point format.</span>
 
 </section>
 
