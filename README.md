@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT64_MAX_SAFE_NTH_FIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-fibonacci@esm/index.mjs';
+import FLOAT64_MAX_SAFE_NTH_FIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-fibonacci@v0.1.1-esm/index.mjs';
 ```
 
 #### FLOAT64_MAX_SAFE_NTH_FIBONACCI
@@ -76,7 +76,7 @@ var bool = ( FLOAT64_MAX_SAFE_NTH_FIBONACCI === 78 );
 <body>
 <script type="module">
 
-import FLOAT64_MAX_SAFE_NTH_FIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-fibonacci@esm/index.mjs';
+import FLOAT64_MAX_SAFE_NTH_FIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-fibonacci@v0.1.1-esm/index.mjs';
 
 var v;
 var i;
