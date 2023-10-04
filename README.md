@@ -44,6 +44,11 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
+import FLOAT64_MAX_SAFE_NTH_FIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-fibonacci@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float64-max-safe-nth-fibonacci/tags). For example,
+
+```javascript
 import FLOAT64_MAX_SAFE_NTH_FIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-fibonacci@v0.1.1-deno/mod.js';
 ```
 
@@ -71,7 +76,7 @@ var bool = ( FLOAT64_MAX_SAFE_NTH_FIBONACCI === 78 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT64_MAX_SAFE_NTH_FIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-fibonacci@v0.1.1-deno/mod.js';
+import FLOAT64_MAX_SAFE_NTH_FIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-fibonacci@deno/mod.js';
 
 var v;
 var i;
